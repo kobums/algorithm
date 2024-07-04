@@ -9,11 +9,13 @@ A collection of baekjoon questions to ace the coding interview!
 ## Silver
 |  |
 | ------- |
-| [0110-balanced-binary-tree](https://github.com/kobums/algorithm2/tree/master/0110-balanced-binary-tree) |
-| [0543-diameter-of-binary-tree](https://github.com/kobums/algorithm2/tree/master/0543-diameter-of-binary-tree) |
+| [1181. 단어 정렬](https://github.com/kobums/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/1181.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EC%A0%95%EB%A0%AC) |
+| [28278. 스택 2](https://github.com/kobums/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/28278.%E2%80%85%EC%8A%A4%ED%83%9D%E2%80%852) |
 ## Gold
 |  |
 | ------- |
-| [0110-balanced-binary-tree](https://github.com/kobums/algorithm2/tree/master/0110-balanced-binary-tree) |
-| [0543-diameter-of-binary-tree](https://github.com/kobums/algorithm2/tree/master/0543-diameter-of-binary-tree) |
+| [1011. Fly me to the Alpha Centauri](https://github.com/kobums/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Gold/1011.%E2%80%85Fly%E2%80%85me%E2%80%85to%E2%80%85the%E2%80%85Alpha%E2%80%85Centauri) |
+| [1013. Contact](https://github.com/kobums/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Gold/1013.%E2%80%85Contact) |
+| [1025. 제곱수 찾기](https://github.com/kobums/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Gold/1025.%E2%80%85%EC%A0%9C%EA%B3%B1%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0) |
+| [1038. 감소하는 수](https://github.com/kobums/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Gold/1038.%E2%80%85%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%E2%80%85%EC%88%98) |
 <!---baekjoon Topics End-->
